@@ -5,7 +5,9 @@
 #
 # Find more information at:
 # https://github.com/microsoft/msvc-code-analysis-action
-
+Repo → .github/workflows/ →
+msvc.yml (or similar) →
+Delete file
 name: Microsoft C++ Code Analysis
 
 on:
